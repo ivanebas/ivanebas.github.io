@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ivanebas.github.io/sitemap.html.gz
+Sitemap: https://ivanebas.github.io/app/sitemap.html.gz
+Sitemap: https://ivanebas.github.io/assets/sitemap.html.gz
+Sitemap: https://ivanebas.github.io/css/sitemap.html.gz
+Sitemap: https://ivanebas.github.io/includes/sitemap.html.gz
+Sitemap: https://ivanebas.github.io/item/sitemap.html.gz
+Sitemap: https://ivanebas.github.io/src/sitemap.html.gz
